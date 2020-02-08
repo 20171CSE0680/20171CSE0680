@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title> frame </title>
+	</head>
+	<frameset rows="10%,80%,10%">
+		<frame name="top" src="http://ghrdc.org/website/Karnataka/PresidencyUniv/img-2.jpg"/>
+		<frame name="mid" src="file:///home/Sem6B10/Desktop/html"/>
+		<frame name="tail" src="http://ghrdc.org/website/Karnataka/PresidencyUniv/img-13.jpg"/>
+		<noframes>
+			<body>
+				your browser not supported
+			</body>
+		</noframes>
+	</frameset>
+	
+</html>
