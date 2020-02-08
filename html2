@@ -2,15 +2,37 @@
 	<head>
 		<title> frame </title>
 	</head>
-	<frameset rows="10%,80%,10%">
-		<frame name="top" src="http://ghrdc.org/website/Karnataka/PresidencyUniv/img-2.jpg"/>
-		<frame name="mid" src="file:///home/Sem6B10/Desktop/html"/>
-		<frame name="tail" src="http://ghrdc.org/website/Karnataka/PresidencyUniv/img-13.jpg"/>
+	<frameset rows="33%,33%,*%">
+	<frameset cols="33%,33%,*%">
+		<frame name="top" src="https://presidencyuniversity.in/"/>
+		<frame name="mid" src="https://my-pgi.com/KnowledgePro/StudentLogin.do"/>
+		<frame name="tail" src="https://www.edhitch.com/login.html"/>
 		<noframes>
 			<body>
 				your browser not supported
 			</body>
 		</noframes>
+	</frameset>
+	<frameset cols="33%,33%,*%">
+		<frame name="top" src="https://presidencyuniversity.in/"/>
+		<frame name="mid" src="https://my-pgi.com/KnowledgePro/StudentLogin.do"/>
+		<frame name="tail" src="https://www.edhitch.com/login.html"/>
+		<noframes>
+			<body>
+				your browser not supported
+			</body>
+		</noframes>
+	</frameset>
+	<frameset cols="33%,33%,*%">
+		<frame name="top" src="https://presidencyuniversity.in/"/>
+		<frame name="mid" src="https://my-pgi.com/KnowledgePro/StudentLogin.do"/>
+		<frame name="tail" src="https://www.edhitch.com/login.html"/>
+		<noframes>
+			<body>
+				your browser not supported
+			</body>
+		</noframes>
+	</frameset>
 	</frameset>
 	
 </html>
