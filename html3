@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title> sample resume </title>
+	</head>
+	
+	<body bgcolor=" #debc13 ">
+	<br>	<img src="/home/Sem6B10/Downloads/resumepic.jpg" style="border:2px solid black;float:right">
+		<h2> Srinag marni </h2>
+		<A HREF="msrinag@gmail.com"> <u>msrinag@gmail.com</u> </a>
+		<h5> <u>+91 - 76769 46898</u></h5>
+		<br>
+		<hr/>
+		
+			
+		<h3>  cv highlights </h3>
+		
+		<UL>
+			<li>In Elizabeth’s CV, you can see a summarized snapshot of her life: everything she has studied, all the conferences she has been to, the skills she obtained, and a list of he
+                        publications.</li>
+			<li>Since she’s applying for a job in a university, Elizabeth mentions her academic achievements and interests first, and professional experiences later.</li>
+
+                        <li>Want to create an awesome CV, but don’t want to spend hours playing around with the formatting & layout? We’ve got you covered! Use one of the 8 Novorésumé CV templates.</li>
+		</UL>
+		
+		<hr/>
+		<h3>  Educational Qualifications </h3>
+		<table style="color:black" border="3" cellpadding="20" cellspacing="3" width=".2">
+	
+		<tr>
+		<th> Qualification </th><th>board    </th><th> name</th><th> result</th><th>year</th>
+		</tr>
+		<tr>
+		<td> 1oth</td><td> icse</td><td> ryan internationl school</td><td> 71%</td><td> 2015</td>
+		</tr>
+		<tr>
+		<td> Pre University Course</td><td> state</td><td>nagarjuna pre university college</td><td> 71.5%</td><td> 2017</td>
+		</tr>
+		<tr>
+		<td> B.Tech CSE</td><td> demd university</td><td> presidency university</td><td> 8.97</a></td><td> 2021*</td>
+		</tr>
+		</table>
+	
+		
+ 		<hr/>
+		<h3>  experiences </h3>
+		
+		<ul>
+			<li>In Elizabeth’s CV, you can see a summarized snapshot of her lif conferences she has been to, the skills she obtained, and a list of he
+                        publications.</li>
+			      <ul>
+			            <li>Since she’s applying for a job in a university,  first, and professional experiences later.</li>
+
+                                    <li>Want to create an awesome CV, but don’t want to spend hours playered! Use one of the 8 Novorésumé CV templates.</li>
+		              </ul>
+			       
+			            <li>Since she’s applying for a job in a university, Elizabetachievements and interests first, and professional experiences later.</li>
+
+                                     <li>Want to create an awesome CV, but don’t want to spend hours playing around wiut? We’ve got you covered! Use one of the 8 Novorésumé CV templates.</li>
+		              
+		</ul>
+		
+	</body>	
+</html>

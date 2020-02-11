@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title> sample resume </title>
+	</head>
+	
+	<frameset cols="10%,*%,10%">
+		<frame name="top" src=""/>
+		<frame name="mid" src="/home/Sem6B10/Desktop/html3"/>
+		<frame name="tail" src=""/>
+		<noframes>
+			<body>
+				your browser not supported
+			</body>
+		</noframes>
+	</frameset>
+	
+	
+</html>
