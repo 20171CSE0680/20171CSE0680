@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>homecss</title>
+		<link rel="stylesheet" type="text/css" href="/home/Sem6B10/Desktop/supportcss.css"/>
+	</head>
+	<body>
+		<h1> wellcome</h1>
+		<p class="n"> paragraph1 </p>
+		<p class="s"> paragraph2 </p>
+		<p> paragraph3 </p>
+		<p class="x"> paragraph3 </p>
+		<p class="x"> paragraph4 </p>
+		<p class="n"> paragraph5 </p>
+		<p class="s"> paragraph6 </p>
+		<p class="x"> paragraph7 </p>
+		<p class="y"> paragraph8 </p>
+	</body>
+</html>
