@@ -4,4 +4,54 @@ p.n {font-family:serif;font-weight:900;}
 p.s {font-size:small;}
 p.x {font-family:serif;color:red;font-weight:bold;word-spacing:20px;letter-spacing:20px;text-indent:1cm;direction:rtl;}
 p.y {font-size:large;font-weight:bolder;text-align:right;text-decoration:blink;text-transform:capitalize;text-shadow:10px 10px 10px blue;}
-img:hover {border:10px solid red;border-radius:10px;width:100%;opacity:0.4;}
+img:hover {border:10px solid red;border-radius:10px;width:1000%;opacity:0.4;border-style:groove;}
+sri  {font-size:small;text-align:right;text-decoration:blink;text-transform:capitalize;text-shadow:10px 10px 10px maroon;}
+p.o{border-style:dashed;border-width:5px;}
+p.t{border-style:solid;border-width:medium;padding:27px 50px 75px 100px}
+p.e{border-style:solid;border-width:2px;}
+p.f{border-style:solid;border-width:5px;}
+p.sp{border-top-style:dotted;border-right-width:15px;border-left-width:auto;border-top-width:auto;border-right-width:30px;border-right-style:solid;border-bottom-style:dashed;border-left-style:solid;border-color:red blue green yellow;margin 25px 50px 75px 100px;}
+p.james{border-style:dashed ;border-width:2px ;padding:5px;margin:2cm;border-color:green}
+li{display:inline;}
+a{display:block}
+span.a{display:inline; width:100px;height:100px;padding:5px;border:1px solid blue;background-color:green;}
+span.b{display:inline-block; width:100px;height:100px;padding:5px;border:1px solid blue;background-color:green}
+span.c{display:block; width:100px;height:100px;padding:5px;border:1px solid blue;background-color:green;}
+a.f:link, a.f:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;margin:2cm;
+}
+a.u {
+  text-decoration: underline;color:black;display: inline-block;margin:2cm;
+}
+a.t {
+  color:green;text-decoration: none;display: inline-block;
+}
+a.f:hover, a.f:active {
+  background-color: green;margin:2cm;
+}
+a.r:link {
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;border:2px solid;
+ border-color:green; margin:2cm;
+}
+ a.r:visited {
+  background-color: red;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;border:2px solid;
+ border-color:green; margin:2cm;
+}
+a.r:hover, a.r:active {
+  background-color: green;
+}
