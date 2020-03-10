@@ -1,0 +1,24 @@
+center {
+  margin: auto;
+  width: 50%;
+  height: 13%;
+  border: 3px solid black;
+  padding: 10px;
+  background-image:linear-gradient(red, yellow, green);
+}
+
+
+div{
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+
+}
+
+div p {
+ 
+  font-weight: bold;
+  color: #000000;
+}
+body{background-image: repeating-radial-gradient( red 70%,orange,yellow,green,blue,indigo,violet);}

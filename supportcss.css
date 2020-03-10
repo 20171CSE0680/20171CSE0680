@@ -8,6 +8,8 @@ img:hover {border:10px solid red;border-radius:10px;width:1000%;opacity:0.4;bord
 sri  {font-size:small;text-align:right;text-decoration:blink;text-transform:capitalize;text-shadow:10px 10px 10px maroon;}
 p.o{border-style:dashed;border-width:5px;}
 p.t{border-style:solid;border-width:medium;padding:27px 50px 75px 100px}
+p.t::first-line{color:#ff0000;}
+p.t::first-letter{color:yellow;font-size:xx-large;}
 p.e{border-style:solid;border-width:2px;}
 p.f{border-style:solid;border-width:5px;}
 p.sp{border-top-style:dotted;border-right-width:15px;border-left-width:auto;border-top-width:auto;border-right-width:30px;border-right-style:solid;border-bottom-style:dashed;border-left-style:solid;border-color:red blue green yellow;margin 25px 50px 75px 100px;}
